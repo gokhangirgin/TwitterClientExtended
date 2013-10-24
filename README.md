@@ -1,4 +1,4 @@
-TwitterClientExtended
+Twitter Client Extended
 =====================
 
 DotNetOpenAuth AspNet Twitter Client Extended with Extra User Information
